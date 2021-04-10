@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saurabhjojare
-- 👀 I’m interested in artificial intelligence & machine learning
+- 👀 I’m interested in machine learning, artificial intelligence
 - 📫 My personal website [saurabhjojare.me](https://saurabhjojare.me/)
 
 <!---
