@@ -8,9 +8,9 @@ Welcome to my GitHub profile! I am a motivated and enthusiastic individual with 
 
 ## 🌱 What I'm currently working on
 
-- [Chatbot-Response-System](https://github.com/saurabhjojare/Chatbot-Response-System): The Intelligent Chatbot project aims to enhance the user experience by providing a conversational and intelligent interface capable of understanding and responding to user queries effectively.
+- [Chatbot Response System](https://github.com/saurabhjojare/Chatbot-Response-System): The Intelligent Chatbot project aims to enhance the user experience by providing a conversational and intelligent interface capable of understanding and responding to user queries effectively.
   
-- [ATM-Simulator-System](https://github.com/saurabhjojare/ATM-Simulator-System): The ATM Simulator System is a software application that mimics the functions of a real Automated Teller Machine (ATM), allowing users to perform banking transactions such as withdrawals, deposits, balance inquiries, fund transfers, and account updates in a user-friendly interface.
+- [ATM Simulator System](https://github.com/saurabhjojare/ATM-Simulator-System): The ATM Simulator System is a software application that mimics the functions of a real Automated Teller Machine (ATM), allowing users to perform banking transactions such as withdrawals, deposits, balance inquiries, fund transfers, and account updates in a user-friendly interface.
 
 ## 💼 Skills
 
