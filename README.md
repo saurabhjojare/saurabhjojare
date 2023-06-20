@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I am a motivated and enthusiastic individual with 
 ## 💼 Skills
 
 - Programming languages: Java, C++, Python, JavaScript, HTML, CSS
-- Frameworks and libraries: Bootstrap
+- Frameworks and libraries: Bootstrap, NumPy, pandas
 - Databases: MySQL, PostgreSQL
 - Version control: Git
 
