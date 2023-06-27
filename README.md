@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I am a motivated and enthusiastic individual with 
 
 - Programming languages: Java, C++, Python, JavaScript, HTML, CSS
 - Frameworks and libraries: Bootstrap, pandas
-- Databases: MySQL, PostgreSQL
+- Databases: MySQL
 - Version control: Git
 
 ## 📫 How to reach me
