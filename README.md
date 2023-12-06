@@ -30,8 +30,3 @@ Welcome to my GitHub profile! I am a motivated and enthusiastic individual with 
 
 - Personal website: [saurabhjojare.github.io](https://saurabhjojare.github.io)
 - HackerRank: [HackerRank](https://www.hackerrank.com/saurabhjojare)
-
-## 🤝 Let's connect
-
-I'm always excited to connect with fellow developers and professionals. Feel free to reach out to me on [Twitter](https://twitter.com/saurabhjojare) or [LinkedIn](https://www.linkedin.com/in/saurabhjojare/). Let's learn and grow together!
-
