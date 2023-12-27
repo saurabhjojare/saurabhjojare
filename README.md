@@ -9,9 +9,9 @@ Welcome to my GitHub profile! I am a motivated and enthusiastic individual with 
   
 - [eCommerce Website](https://github.com/saurabhjojare/eCommerce-Website): The eCommerce Website is a fully functional and user-friendly online platform that facilitates the buying and selling of products and services.
 
-- [Chatbot Response System](https://github.com/saurabhjojare/Chatbot-Response-System): The Intelligent Chatbot project aims to enhance the user experience by providing a conversational and intelligent interface capable of understanding and responding to user queries effectively.
+<!-- - [Chatbot Response System](https://github.com/saurabhjojare/Chatbot-Response-System): The Intelligent Chatbot project aims to enhance the user experience by providing a conversational and intelligent interface capable of understanding and responding to user queries effectively. -->
 
-- [Bank Management System](https://github.com/saurabhjojare/Bank-Management-System): The Bank Management System is a software application that mimics the functions of a real Automated Teller Machine (ATM), allowing users to perform banking transactions such as withdrawals, deposits, balance inquiries, fund transfers, and account updates in a user-friendly interface.
+<!-- - [Bank Management System](https://github.com/saurabhjojare/Bank-Management-System): The Bank Management System is a software application that mimics the functions of a real Automated Teller Machine (ATM), allowing users to perform banking transactions such as withdrawals, deposits, balance inquiries, fund transfers, and account updates in a user-friendly interface. -->
 
 - [Medical Store Management](https://github.com/saurabhjojare/Medical-Store-Management): Medical Store Management is a system for efficiently running pharmaceutical stores. It handles inventory, sales, prescriptions, and regulatory compliance to streamline operations and improve customer service.
 
