@@ -11,6 +11,5 @@ Welcome to my GitHub profile! I am a motivated and enthusiastic individual with 
 ## Technical Skills
 
 - **Technical Skills**: Java, C, C++, Python, HTML, CSS, JavaScript, Bootstrap, MySQL, Git
-- **Soft Skills**: Effective Communication, Problem-Solving, Teamwork, Adaptability, Time Management
 - **Development Tools**: Visual Studio Code, Eclipse, IntelliJ IDEA
 - **Operating Systems**: Windows, Linux, macOS
