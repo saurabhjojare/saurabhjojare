@@ -1,4 +1,4 @@
-# Hello, I'm Saurabh Jojare
+# Saurabh Jojare
 
 [![GitHub followers](https://img.shields.io/github/followers/saurabhjojare?label=Follow&style=social)](https://github.com/saurabhjojare)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/saurabhjojare/)
@@ -10,6 +10,6 @@ Welcome to my GitHub profile! I am a motivated and enthusiastic individual with 
 
 ## Technical Skills
 
-- **Technical Skills**: Java, C, C++, Python, HTML, CSS, JavaScript, Bootstrap, MySQL, Git, Servlet, JDBC, XML, Apache Tomcat
+- **Technical Skills**: Java, C/C++, Python, HTML, CSS, JavaScript, Bootstrap, MySQL, Git, Servlet/JSP, JDBC, XML, Apache Tomcat
 - **Development Tools**: Visual Studio Code, Eclipse, IntelliJ IDEA
 - **Operating Systems**: Windows, Linux, macOS
