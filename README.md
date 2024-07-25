@@ -11,6 +11,6 @@ Welcome to my GitHub profile! I am a motivated and enthusiastic individual with 
 
 ## Technical Skills
 
-- **Technical Skills**: Java (Core, Servlet/JSP, JDBC, Spring/Spring Boot, Hibernate), C/C++, HTML, CSS (Bootstrap), JavaScript (ReactJS, NestJS), MySQL(PL/SQL), XML/JSON, REST API
+- **Technical Skills**: Java (Core, Servlet/JSP, JDBC, Spring/Spring Boot, Hibernate), C/C++, HTML, CSS (Bootstrap), JavaScript (ReactJS, NestJS), MySQL, PostgreSQL(PL/SQL), XML/JSON, REST API
 - **Development Tools**: Git, Visual Studio Code, Eclipse, IntelliJ IDEA
 - **Operating Systems**: Windows, Linux, macOS
