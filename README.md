@@ -8,9 +8,3 @@
 [![QuizConnect](https://img.shields.io/badge/QuizConnect-Live%20Preview-blue)](https://bytebridgegroup.tech/)
 
 Welcome to my GitHub profile! I am a motivated and enthusiastic individual with a passion for technology and problem-solving. As a software developer, I enjoy creating innovative solutions and turning ideas into reality. With a strong foundation in programming and a dedication to continuous learning, I am eager to contribute my skills and collaborate with others to build robust and user-friendly software applications. My goal is to make a positive impact in the field of software development and contribute to the advancement of technology.
-
-## Technical Skills
-
-- **Technical Skills**: Java (Core, Servlet/JSP, JDBC, Spring/Spring Boot, Hibernate), C/C++, HTML, CSS (Bootstrap), JavaScript (React.js, Node.js, Nest.js, TypeScript), MySQL, PostgreSQL(PL/SQL), XML/JSON, REST API
-- **Development Tools**: Git, Visual Studio Code, Eclipse, IntelliJ IDEA
-- **Operating Systems**: Windows, Linux, macOS
