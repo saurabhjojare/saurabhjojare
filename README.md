@@ -1,5 +1,3 @@
-# Saurabh Jojare
-
 [![GitHub followers](https://img.shields.io/github/followers/saurabhjojare?label=Follow&style=social)](https://github.com/saurabhjojare)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/saurabhjojare)
 [![Email](https://img.shields.io/badge/Email-Send%20Email-blue?style=social&logo=gmail)](mailto:saurabh.jojare@gmail.com)
