@@ -77,6 +77,14 @@
   <img src="https://img.shields.io/badge/Generative_AI-FF4081?style=for-the-badge" />
 </p>
 
+<p align="center"><strong>📘 Core CS Subjects</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Computer_Networks-4682B4?style=for-the-badge&logo=azurepipelines&logoColor=white" />
+  <img src="https://img.shields.io/badge/DBMS-8A2BE2?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Operating_System-FF4500?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/System_Design-2E8B57?style=for-the-badge&logo=architecture&logoColor=white" />
+</p>
+
 ## 🧠 Projects
 <p><strong>XPay – Realtime P2P Payments</strong></p>
 <blockquote>Microservices-based payment platform for secure, real-time P2P transactions.</blockquote>
