@@ -91,14 +91,9 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saurabhjojare&show_icons=true&theme=transparent&hide_border=true" height="130"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhjojare&layout=compact&theme=transparent&hide_border=true" height="130"/>
-  <img src="https://streak-stats.demolab.com?user=saurabhjojare&theme=transparent&hide_border=true&date=20250916" height="130" alt="GitHub Streak"/>
-</p>
-
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://ghchart.rshah.org/00cc88/saurabhjojare" alt="Saurabh's GitHub Contributions Chart" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saurabhjojare&show_icons=true&theme=transparent&hide_border=true" height="120"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhjojare&layout=compact&theme=transparent&hide_border=true" height="120"/>
+  <img src="https://streak-stats.demolab.com?user=saurabhjojare&theme=transparent&hide_border=true&date=20250916" height="120" alt="GitHub Streak"/>
 </p>
 
 ## 📬 Connect  
