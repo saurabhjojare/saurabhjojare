@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I'm Saurabh</h1>
 
-<h3 align="center">💻 Software Engineer</h3>
 <p align="center">
+  <strong>Software Engineer | Java, Spring Boot, Microservices, REST APIs & AWS Expert</strong><br/>
   📍 Pune, Maharashtra, India
 </p>
 
