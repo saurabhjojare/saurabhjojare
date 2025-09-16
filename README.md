@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I'm Saurabh</h1>
 
+<h3 align="center">💻 Software Development Engineer</h3>
 <p align="center">
-  <strong>💻 Software Development Engineer</strong><br>
   📍 Pune, Maharashtra, India
 </p>
 
