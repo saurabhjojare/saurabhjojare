@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm Saurabh Jojare</h1>
+<h1 align="center">👋 Hello, I'm Saurabh</h1>
 
 <h3 align="center">💻 Software Engineer</h3>
 <p align="center">
@@ -14,42 +14,42 @@
 - 🚨 Actively seeking **full-time software development roles** (Backend | Fullstack | AI-focused)  
 
 ## 🛠️ Tech Stack & Skills
-<p align="center"><strong>💻 Languages</strong></p>
-<p align="center">
+<p>💻 Languages</strong></p>
+<p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /><br>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-<p align="center"><strong>🖥️ Frameworks & Libraries</strong></p>
-<p align="center">
+<p><strong>🖥️ Frameworks & Libraries</strong></p>
+<p>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /><br>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
   <img src="https://img.shields.io/badge/Mockito-00C2A0?style=for-the-badge&logo=mockito&logoColor=white" />
 </p>
 
-<p align="center"><strong>🗄️ Databases & Messaging</strong></p>
-<p align="center">
+<p>🗄️ Databases & Messaging</strong></p>
+<p>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /><br>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
 </p>
 
-<p align="center"><strong>🛠️ DevOps & Tools</strong></p>
-<p align="center">
+<p><strong>🛠️ DevOps & Tools</strong></p>
+<p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" /><br>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
@@ -60,17 +60,17 @@
   <img src="https://img.shields.io/badge/REST_API-61DAFB?style=for-the-badge" />
 </p>
 
-<p align="center"><strong>📚 Concepts & Methodologies</strong></p>
-<p align="center">
+<p><strong>📚 Concepts & Methodologies</strong></p>
+<p>
   <img src="https://img.shields.io/badge/Data_Structures-007ACC?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Algorithms-FF8C00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Agile-007ACC?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SOLID_Principles-6A1B9A?style=for-the-badge" /><br>
+  <img src="https://img.shields.io/badge/SOLID_Principles-6A1B9A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Generative_AI-FF4081?style=for-the-badge" />
 </p>
 
-<p align="center"><strong>📘 Core CS Subjects</strong></p>
-<p align="center">
+<p><strong>📘 Core CS Subjects</strong></p>
+<p>
   <img src="https://img.shields.io/badge/Computer_Networks-4682B4?style=for-the-badge&logo=azurepipelines&logoColor=white" />
   <img src="https://img.shields.io/badge/DBMS-8A2BE2?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/Operating_System-FF4500?style=for-the-badge&logo=linux&logoColor=white" />
