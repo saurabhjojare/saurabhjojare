@@ -1,16 +1,109 @@
-## Hi there 👋
+<h1 align="center">👋 Hello, I'm Saurabh</h1>
 
-<!--
-**saurabhjojare/saurabhjojare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>💻 Software Development Engineer</strong><br>
+  📍 Pune, Maharashtra, India
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Introduction
+
+- 🎓 Master’s in Computer Science @ **Savitribai Phule Pune University**  
+- 💼 Previously at **TechBulls SoftTech Pvt. Ltd.** (Fintech Project)  
+- 🌐 Strong in **Java, Spring Boot, Kafka, REST APIs, Microservices, AWS, React.js, MongoDB, PostgreSQL, Docker, Kubernetes**  
+- 🛠️ Building **financial applications, AI assistants, cloud-deployable microservices, and more!**  
+- 🚨 Actively seeking **full-time software development roles** (Backend | Fullstack | AI-focused)  
+
+## 🛠️ Tech Stack & Skills
+<p align="center"><strong>💻 Languages</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /><br>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+<p align="center"><strong>🖥️ Frameworks & Libraries</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /><br>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mockito-00C2A0?style=for-the-badge&logo=mockito&logoColor=white" />
+</p>
+
+<p align="center"><strong>🗄️ Databases & Messaging</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /><br>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+</p>
+
+<p align="center"><strong>🛠️ DevOps & Tools</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" /><br>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><br>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-FF6600?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST_API-61DAFB?style=for-the-badge" />
+</p>
+
+<p align="center"><strong>📚 Concepts & Methodologies</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Data_Structures-007ACC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Algorithms-FF8C00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agile-007ACC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SOLID_Principles-6A1B9A?style=for-the-badge" /><br>
+  <img src="https://img.shields.io/badge/Generative_AI-FF4081?style=for-the-badge" />
+</p>
+
+## 🧠 Projects
+<p><strong>XPay – Realtime P2P Payments</strong></p>
+<blockquote>Microservices-based payment platform for secure, real-time P2P transactions.</blockquote>
+<p><strong>Tech:</strong> Java, Spring Boot, Maven, Docker, REST APIs, JWT, OAuth, Kafka, MongoDB, PostgreSQL, Redis</p>
+<p><strong>Impact:</strong> Enabled real-time payments with secure and scalable microservices</p>
+<br>
+
+<p><strong>Pizza Ordering System</strong></p>
+<blockquote>Full-stack app to order pizzas online with responsive UI and secure authentication.</blockquote>
+<p><strong>Tech:</strong> ReactJS (TypeScript), Bootstrap, NestJS, PostgreSQL, RESTful APIs, JWT, Docker</p>
+<p><strong>Impact:</strong> Streamlined pizza ordering with responsive design and secure backend</p>
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saurabhjojare&show_icons=true&theme=transparent&hide_border=true" height="130"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhjojare&layout=compact&theme=transparent&hide_border=true" height="130"/>
+  <img src="https://streak-stats.demolab.com?user=saurabhjojare&theme=transparent&hide_border=true&date=20250916" height="130" alt="GitHub Streak"/>
+</p>
+
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://ghchart.rshah.org/00cc88/saurabhjojare" alt="Saurabh's GitHub Contributions Chart" />
+</p>
+
+## 📬 Connect  
+
+<p align="center"><i>✨ Let’s connect and build something impactful together!</i></p>
+
+<p align="center">📧 <a href="mailto:saurabh.jojare@gmail.com">saurabh.jojare@gmail.com</a></p>
+
