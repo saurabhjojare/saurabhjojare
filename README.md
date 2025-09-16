@@ -78,13 +78,13 @@
 </p>
 
 ## 🧠 Projects
-<p><strong>XPay – Realtime P2P Payments</strong></p>
+<p><strong><a href="https://github.com/saurabhjojare/xpay" target="_blank">XPay – Realtime P2P Payments</a></strong></p>
 <blockquote>Microservices-based payment platform for secure, real-time P2P transactions.</blockquote>
 <p><strong>Tech:</strong> Java, Spring Boot, Maven, Docker, REST APIs, JWT, OAuth, Kafka, MongoDB, PostgreSQL, Redis</p>
 <p><strong>Impact:</strong> Enabled real-time payments with secure and scalable microservices</p>
 <br>
 
-<p><strong>Pizza Ordering System</strong></p>
+<p><strong><a href="https://github.com/saurabhjojare/Pizza-Ordering-System" target="_blank">Pizza Ordering System</a></strong></p>
 <blockquote>Full-stack app to order pizzas online with responsive UI and secure authentication.</blockquote>
 <p><strong>Tech:</strong> ReactJS (TypeScript), Bootstrap, NestJS, PostgreSQL, RESTful APIs, JWT, Docker</p>
 <p><strong>Impact:</strong> Streamlined pizza ordering with responsive design and secure backend</p>
