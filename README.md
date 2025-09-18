@@ -8,12 +8,12 @@
 ## 🚀 Introduction
 
 - 🎓 Master’s in Computer Science @ **Savitribai Phule Pune University**  
-- 💼 Previously at **TechBulls SoftTech Pvt. Ltd.** (Fintech Project)  
+- 💼 Previously at **TechBulls SoftTech Pvt. Ltd.** (Engineered fintech products and features)  
 - 🌐 Strong in **Java, Spring Boot, Kafka, REST APIs, Microservices, AWS, React.js, MongoDB, SQL, Docker, & Kubernetes**  
 - 🛠️ Building **financial applications, AI assistants, cloud-deployable microservices, and more!**  
 - 🚨 Actively seeking **full-time software development roles** (Backend | Fullstack | AI-focused)  
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Technical Skills
 <p>💻 Languages</strong></p>
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -93,7 +93,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saurabhjojare&show_icons=true&theme=transparent&hide_border=true" height="120"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhjojare&layout=compact&theme=transparent&hide_border=true" height="120"/>
-  <img src="https://streak-stats.demolab.com?user=saurabhjojare&theme=transparent&hide_border=true&date=20250916" height="120" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=saurabhjojare&theme=transparent&hide_border=true" height="120" alt="GitHub Streak"/>
 </p>
 
 ## 📬 Connect  
