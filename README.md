@@ -16,7 +16,7 @@
 ## 🛠️ Technical Skills
 <p>💻 <strong>Programming Languages</strong> : Java, C++, JavaScript, TypeScript, HTML5, CSS3</p>
 
-<p><strong>🖥️ Frameworks & Libraries</strong> : Spring Boot, Hibernate, React, Angular, Bootstrap, JUnit, Mockito</p>
+<p><strong>🧱 Frameworks & Libraries</strong> : Spring Boot, Hibernate, React, Angular, Bootstrap, JUnit, Mockito</p>
 
 <p>🗄️ <strong>Databases & Messaging</strong> : PostgreSQL, MySQL, MongoDB, Redis, Kafka</p>
 
