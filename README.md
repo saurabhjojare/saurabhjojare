@@ -9,7 +9,7 @@
 
 - 🎓 Master’s in Computer Science @ **Savitribai Phule Pune University**  
 - 💼 Previously at <a href="https://techbulls.com" style="text-decoration: none; color: inherit;">TechBulls SoftTech Pvt. Ltd.</a>
-- 🌐 Strong in **Java, Spring Boot, Kafka, REST APIs, Microservices, AWS, MongoDB, PostgreSQL, Docker, Kubernetes, & React.js**  
+- 🌐 Strong in **Java, Spring Boot, Kafka, REST APIs, Microservices, SQL, NoSQL, PostgreSQL, Docker, Kubernetes 
 - 🛠️ Building **financial applications, cloud-deployable microservices, AI assistants and more!**  
 - 🚨 Actively seeking **full-time software development roles** (Backend | Fullstack | AI-focused)  
 
