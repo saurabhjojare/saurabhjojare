@@ -11,7 +11,7 @@
 - 💼 Previously at <a href="https://techbulls.com" style="text-decoration: none; color: inherit;">TechBulls SoftTech Pvt. Ltd.</a>
 - 🌐 Strong in **Java, Spring Boot, Kafka, REST APIs, Microservices, SQL, NoSQL, Docker, Kubernetes, React.js**
 - 🛠️ Building **financial applications, cloud-deployable microservices, AI assistants and more!**  
-- 🚨 Actively seeking **full-time software development roles** (Backend | Fullstack | AI-focused)  
+- 🚨 Actively seeking **full-time software engineering roles** (Backend | Fullstack | AI-focused)  
 
 ## 🛠️ Technical Skills
 <p>💻 <strong>Programming Languages</strong> : Java, C++, JavaScript, TypeScript, HTML5, CSS3</p>
@@ -20,7 +20,7 @@
 
 <p>🗄️ <strong>Databases & Messaging</strong> : PostgreSQL, MySQL, MongoDB, Redis, Kafka</p>
 
-<p><strong>🛠️ DevOps & Tools</strong> :  Git, Linux, Jenkins, Ansible, Docker, Kubernetes, Postman, Prometheus, Grafana</p>
+<p><strong>🛠️ DevOps & Tools</strong> :  Git, Unix/Linux, Jenkins, Ansible, Docker, Kubernetes, Postman, Prometheus, Grafana</p>
 
 <p><strong>☁️ Cloud & Architecture</strong> :  AWS (S3, EC2, RDS, Lambda, DynamoDB), Microservices, REST API, JSON, XML</p>
 
@@ -30,16 +30,14 @@
 
 
 ## 🧠 Projects
-<p><strong><a href="https://github.com/saurabhjojare/xpay" target="_blank">XPay – Realtime P2P Payments</a></strong></p>
-<blockquote>Microservices-based payment platform for secure, real-time P2P transactions.</blockquote>
-<p><strong>Tech:</strong> Java, Spring Boot, Maven, Docker, REST APIs, JWT, OAuth, Kafka, MongoDB, PostgreSQL, Redis</p>
-<p><strong>Impact:</strong> Enabled real-time payments with secure and scalable microservices</p>
+<p><strong><a href="https://github.com/saurabhjojare/xpay" target="_blank">XPay</a></strong></p>
+<p>Built a production grade P2P payment system that supports high volume real time money transfers, secured through OAuth based access control and enforced service boundaries. Delivered reliable transaction processing with Kafka pipelines and a tuned data layer using PostgreSQL, MongoDB, and Redis, which cut latency and improved system stability under load. Containerized and deployed the entire platform on AWS for effortless scaling, and implemented full operational visibility with Prometheus and Grafana to monitor payment flow, detect anomalies, and maintain uptime.</p>
+<p><strong>Technologies:</strong> Java, Spring Boot, Maven, Docker, REST APIs, JWT, OAuth, Kafka, MongoDB, PostgreSQL, Redis</p>
 <br>
 
 <p><strong><a href="https://github.com/saurabhjojare/Pizza-Ordering-System" target="_blank">Pizza Ordering System</a></strong></p>
-<blockquote>Full-stack app to order pizzas online with responsive UI and secure authentication.</blockquote>
-<p><strong>Tech:</strong> ReactJS (TypeScript), Bootstrap, NestJS, PostgreSQL, RESTful APIs, JWT, Docker</p>
-<p><strong>Impact:</strong> Streamlined pizza ordering with responsive design and secure backend</p>
+<p>Built a fully operational pizza ordering platform with secure JWT login, real order tracking, a responsive UI with Bootstrap, and a PostgreSQL backed workflow. Cut deployment friction by containerizing the entire system with Docker and improved scalability by running it behind an Nginx reverse proxy and load balancer.</p>
+<p><strong>Technologies:</strong> ReactJS (TypeScript), Bootstrap, NestJS, PostgreSQL, RESTful APIs, JWT, Docker</p>
 
 ## 📊 GitHub Stats
 <p align="center">
